@@ -7,3 +7,6 @@
 [submodule "shower"]
 	path = shower
 	url = https://github.com/shower/core.git
+[submodule "corpident"]
+	path = img/corpident
+	url = https://github.com/vsechnovcloudu/vvc.corpident
