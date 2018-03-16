@@ -10,3 +10,6 @@
 [submodule "corpident"]
 	path = img/corpident
 	url = https://github.com/vsechnovcloudu/vvc.corpident.git
+[submodule "img/corpident"]
+	path = img/corpident
+	url = git@github.com:vsechnovcloudu/vvc.corpident.git
