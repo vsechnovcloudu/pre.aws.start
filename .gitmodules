@@ -9,4 +9,4 @@
 	url = https://github.com/shower/core.git
 [submodule "img/corpident"]
 	path = img/corpident
-	url = https://github.com/vsechnovcloudu/vvc.corpident
+	url = https://github.com/vsechnovcloudu/vvc.corpident.git
