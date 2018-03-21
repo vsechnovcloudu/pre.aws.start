@@ -41,8 +41,8 @@ style: |
 
 
 ## Basics
-[General introduction](general.html) - what is Amazon doing, why is it successfull, impact on style of development, architecture and overall methodology, business model, shared responsibility model.  
-[Accounts, organization](accounts.html) - high level setup, approach with account factory, billing, root account.  
+[General introduction](general.html) - what is Amazon doing, why is it successfull, impact on style of development, architecture and overall methodology, business model, shared responsibility model, trade-off with managed services, exit strategy / migration, new requirements.  
+[Accounts, organization](accounts.html) - high level setup, approach with account factory, billing, root account, login process.  
 [Structure](structure.html) - AWS API, global services, regions, availability zones, edge locations.  
 
 ## Core services 1/2
