@@ -41,14 +41,15 @@ style: |
 
 
 ## Basics
-[General introduction](general.html) - what is Amazon doing, why is it successfull, impact on style of development, architecture and overall methodology, business model, shared responsibility model, trade-off with managed services, exit strategy / migration, new requirements.  
+[General introduction](general.html) - Why AWS, pet vs cattle, impact on style of development, architecture and overall methodology, business model, shared responsibility model, trade-off with managed services, exit strategy / migration, new requirements.  
 [Accounts, organization](accounts.html) - high level setup, approach with account factory, billing, root account, login process.  
+[Documentation and support](documentation.html) - Service description, API reference, SDK docs (various languages), Support plan, long term support.  
 [Structure](structure.html) - AWS API/CLI/SDK/Webconsole, global services, regions, availability zones, edge locations.  
 
 ## Core services 1/2
-[Security](security.html) - IAM, roles, policies, credentials, least privilege principle.  
+[Security](security.html) - IAM, roles, policies, credentials, least privilege principle, KMS (encryption, certificates).  
 [Network](network.html) - VPC, subnet, route tables, NACL, security groups, gateways.  
-[Computation](computation.html) - EC2, ELB, AG, ECS/EKS, Lambda.  
+[Computation](computation.html) - EC2 (reservations, types, on demand, spot, bare metal, dedicated instance/hosts), ELB, AG, ECS/EKS, Lambda.  
 [Storage](storage.html) - EBS, EFS, S3, Storage gateway.  
 
 ## Core services 2/2
