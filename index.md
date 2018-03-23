@@ -42,10 +42,10 @@ style: |
 
 
 ## Basics
-[General introduction](general.html) - Why AWS, pet vs cattle, impact on style of development, architecture and overall methodology, business model, shared responsibility model, trade-off with managed services, exit strategy / migration, new requirements.  
+[Documentation and support](documentation.html) - Support service description, API reference, SDK docs (various languages), Support plan, long term support.  
+[General introduction](general.html) - Why AWS, Pet vs Cattle, impact on style of development, architecture and overall methodology, business model, shared responsibility model, trade-off with managed services, exit strategy / migration, new requirements.  
 [Accounts, organization](accounts.html) - high level setup, approach with account factory, billing, root account, login process.  
-[Documentation and support](documentation.html) - Service description, API reference, SDK docs (various languages), Support plan, long term support.  
-[Structure](structure.html) - AWS API/CLI/SDK/Webconsole, global services, regions, availability zones, edge locations.  
+[Structure](structure.html) - AWS API/CLI/SDK/Webconsole, global services, regions, availability zones, edge locations, ARN, tagging of resources.  
 
 ## Core services 1/2
 [Security](security.html) - IAM, roles, policies, credentials, least privilege principle, KMS (encryption, certificates).  
