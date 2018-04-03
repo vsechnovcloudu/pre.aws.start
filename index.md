@@ -54,7 +54,7 @@ style: |
 [Storage](storage.html) - EBS, EFS, S3, CloudFront, Storage gateway.  
 
 ## Core services 2/2
-[Database](database.html) - RDS/Aurora, DynamoDB, Elasicache, Database Migration Service.  
+[Database](database.html) - RDS/Aurora, DynamoDB, Elasticache, Database Migration Service.  
 [Messaging, streams](messaging.html) - SNS, SQS, AmazonMQ, Kinesis.  
 [Monitoring](monitoring.html) - CloudWatch, CloudTrail, AWS Config.  
 [Cost management](costs.html) - Billing management, monthly calculator / Lambda calculator, Trusted Advisor.  
