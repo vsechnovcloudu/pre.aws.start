@@ -51,7 +51,7 @@ style: |
 [Security](security.html) - IAM, roles, policies, credentials, least privilege principle, KMS (encryption, certificates).  
 [Network](network.html) - VPC, subnet, route tables, NACL, security groups, gateways.  
 [Computation](computation.html) - EC2 (reservations, types, on demand, spot, bare metal, dedicated instance/hosts), ELB, AG, ECS/EKS, Lambda.  
-[Storage](storage.html) - EBS, EFS, S3, Storage gateway.  
+[Storage](storage.html) - EBS, EFS, S3, CloudFront, Storage gateway.  
 
 ## Core services 2/2
 [Database](database.html) - RDS/Aurora, DynamoDB, Elasicache, Database Migration Service.  
