@@ -16,6 +16,6 @@ author:
         name: Vsechno v cloudu s.r.o.
         url:  http://vsechnovcloudu.cz/
 
-# fork_url: https://github.com/shower/shower
+fork_url: https://github.com/vsechnovcloudu/pre.aws.start
 progress: true
 line_numbers: true
