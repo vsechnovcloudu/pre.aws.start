@@ -59,6 +59,22 @@ style: |
 [Monitoring](monitoring.html) - CloudWatch, CloudTrail, AWS Config.  
 [Cost management](costs.html) - Billing management, monthly calculator / Lambda calculator, Trusted Advisor.  
 
+## Exercises 1/2
+
+Create your first EC2 instance with default settings   
+Create your VPC  
+Create roles and policies in IAM  
+Create EC2 instance in your VPC  
+Create Autoscaling groups  
+Create LoadBalancer  
+
+## Exercises 2/2
+
+Create MySQL database using RDS  
+Create DynamoDB table  
+Create Lambda function  
+
+
 ## Managed services
 CloudFormation  
 Rekognition  
