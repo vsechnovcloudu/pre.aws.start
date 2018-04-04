@@ -45,11 +45,14 @@ style: |
 
 ## Reservations
 
-## Types
+## Performance types
 
 ## on demand, spot, bare metal, dedicated instance/hosts
 
 ## Elastic Load Balancer
+
+Classic, Application, network
+Stickiness (customers session will use the same instance)
 
 ## Autoscaling
 
