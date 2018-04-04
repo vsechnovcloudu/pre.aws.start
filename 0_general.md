@@ -46,7 +46,6 @@ style: |
 Biggest cloud provider, more than 35% market share.  
 "Age of Amazon".  
 
-
 ## Pet vs Cattle
 
 ## Impact on style of product development
@@ -63,7 +62,7 @@ Monitoring is new testing.
 
 ## AWS business model
 
-Customers -> Metadata (usage) -> Improvement of services -> Economy of scale -> Lower prices -> More customers
+Customers > Metadata (usage of AWS services) > Improvement of services > Economy of scale > Lower prices > More customers
 
 ## shared responsibility model
 
@@ -73,4 +72,4 @@ Customers -> Metadata (usage) -> Improvement of services -> Economy of scale -> 
 
 ## new requirements
 
-Constant monitoring, neverending loop of improvements, automatic CI/CD
+Constant monitoring, neverending loop of improvements, automatic CI/CD.
