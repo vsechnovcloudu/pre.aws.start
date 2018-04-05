@@ -47,6 +47,18 @@ style: |
 
 ## Subnet
 
+## Private subnet
+
+Not directly accessible from the internet, only from inside network.  
+Typically use a jump host to access resources in private subnet.  
+Make your resources in private subnet available only to application servers, webservers, databases etc.
+
+## Public subnet
+
+Including routing table for internet gateway.  
+Typically used for web application frontends for customer access.  
+
+
 ## Route tables
 
 ## NACL

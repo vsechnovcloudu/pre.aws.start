@@ -41,9 +41,23 @@ style: |
 ![](img/corpident/cover.jpg)
 <!-- photo by unsplash -->
 
-## Your first EC2 instance
+## **Your first EC2 instance**
 
-## Create VPC
+## In Webconsole...
+
+Make sure, you are in **correct region** first!  
+Services > EC2 > Launch instance > Amazon Linux AMI > t2.micro > **Launch** > Proceed without a keypair.  
+
+## **Create VPC**
+
+## In Webconsole
+
+Consider **region**
+Services > VPC > Your VPCs > **Create VPC** > name, CIDR block > Yes, create.  
+
+## Create at least 2 subnets
+
+## Create and attach Internet gateway
 
 ## Create 2x EC2 instances in your VPC
 
@@ -57,8 +71,8 @@ Register both EC2 instances from previous exercise.
 
 ## Create MySQL database using RDS
 
-## Roles and policies in IAM
-
 ## Create DynamoDB table
+
+## Roles and policies in IAM
 
 ## Create Lambda function

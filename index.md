@@ -63,7 +63,6 @@ style: |
 
 Create your first EC2 instance with default settings   
 Create your VPC  
-Create roles and policies in IAM  
 Create EC2 instance in your VPC  
 Create Autoscaling groups  
 Create LoadBalancer  
@@ -72,6 +71,7 @@ Create LoadBalancer
 
 Create MySQL database using RDS  
 Create DynamoDB table  
+Create roles and policies in IAM  
 Create Lambda function  
 
 
@@ -83,6 +83,10 @@ Lex
 Machine learning  
 Elastic Beanstalk  
 Lightsail
+Guard Duty
+AWS Shield
+Athena
+Redshift
 
 ## Well architected framework
 Pillar 1  

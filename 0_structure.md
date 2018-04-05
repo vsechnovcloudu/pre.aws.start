@@ -52,3 +52,5 @@ style: |
 ## edge locations
 
 ## ARN, tagging
+
+## Soft limits

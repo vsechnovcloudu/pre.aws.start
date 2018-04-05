@@ -43,6 +43,8 @@ style: |
 
 ## Accounts high level setup
 
+## Organization limits
+
 ## approach with account factory
 
 ## billing, root account
