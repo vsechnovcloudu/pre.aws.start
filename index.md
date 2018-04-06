@@ -88,6 +88,15 @@ AWS Shield
 Athena
 Redshift
 
+## DevOps tools
+
+CodeCommit
+CodeBuild
+CodeDeploy
+CodePipeline
+Cloud9
+Secrets Manager
+
 ## Well architected framework
 Pillar 1  
 Pillar 2  
