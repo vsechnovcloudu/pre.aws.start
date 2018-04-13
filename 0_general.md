@@ -72,4 +72,6 @@ Customers > Metadata (usage of AWS services) > Improvement of services > Economy
 
 ## new requirements
 
-Constant monitoring, neverending loop of improvements, automatic CI/CD.
+Constant monitoring, neverending loop of improvements, automatic CI/CD.  
+New (automatic) processes.  
+Security concepts: Blacklisting or whitelisting?

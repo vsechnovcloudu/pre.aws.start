@@ -71,6 +71,8 @@ Register both EC2 instances from previous exercise.
 
 ## Create MySQL database using RDS
 
+## Create Read Replica of your MySQL database
+
 ## Create DynamoDB table
 
 ## Roles and policies in IAM

@@ -64,7 +64,7 @@ style: |
 Create your first EC2 instance with default settings   
 Create your VPC  
 Create EC2 instance in your VPC  
-Create Autoscaling groups  
+Create Autoscaling group  
 Create LoadBalancer  
 
 ## Exercises 2/2
@@ -73,7 +73,6 @@ Create MySQL database using RDS
 Create DynamoDB table  
 Create roles and policies in IAM  
 Create Lambda function  
-
 
 ## Managed services
 CloudFormation  

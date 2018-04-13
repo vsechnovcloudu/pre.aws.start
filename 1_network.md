@@ -43,9 +43,24 @@ style: |
 
 ## Network
 
-## VPC
+## **VPC**
 
-## Subnet
+## Flowlogs, endpoints
+
+Flow logs captures traffic of flow details in your VPC (accepted and rejected).  
+Logs published to CloudWatch. You have to provide a role for it!  
+Can be enabled for VPCs, subnets and network interfaces.  
+
+
+## Best practices
+
+Right CIDR block planning is the key.  
+Rather use large subnets instead of lot of small subnets.  
+Keep subnets simple and divide by internet accessibility.  
+Use multiAZ deployments.  
+Monitor flow logs.  
+
+## **Subnets**
 
 ## Private subnet
 
